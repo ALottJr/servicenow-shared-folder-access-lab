@@ -1,0 +1,9 @@
+servicenow-shared-folder-access-lab
+│
+├── README.md
+├── screenshots
+│   ├── ticket-created.png
+│   ├── ticket-state.png
+│   ├── incident-details.png
+│   ├── resolution-notes.png
+│   └── incident-resolved.png
